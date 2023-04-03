@@ -4,8 +4,10 @@ This project analyses the effects of CCA, students' achievements and their exper
 # Project Links
 
 # Project Highlights
-<img width="791" alt="image" src="https://user-images.githubusercontent.com/129648107/229430979-d110dbf9-b5c1-4455-b375-015d204a8924.png">
-<img width="791" alt="image" src="https://user-images.githubusercontent.com/129648107/229431089-04520f3b-871e-4bfb-8c27-a5e99ba76ec6.png">
+1. <img width="770" alt="image" src="https://user-images.githubusercontent.com/129648107/229431940-b7238592-c2c3-457e-8c00-880ddf226458.png">
+2. <img width="785" alt="image" src="https://user-images.githubusercontent.com/129648107/229432284-5043b469-dfb1-4692-8152-3358ca894a8d.png">
+3. <img width="784" alt="image" src="https://user-images.githubusercontent.com/129648107/229432392-e88cad26-5527-4e74-8e61-ad91a914bdac.png">
+
 
    
 
